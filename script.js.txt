@@ -1,9 +1,0 @@
-// script.js
-
-// 获取按钮元素
-var button = document.querySelector('.button');
-
-// 添加点击事件处理函数
-button.addEventListener('click', function() {
-    alert('Button clicked!');
-});
