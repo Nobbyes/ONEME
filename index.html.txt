@@ -5,9 +5,6 @@
 
     <!-- 引用外部样式表 -->
     <link rel="stylesheet" href="styles.css">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Website Title</title>
 </head>
 <body>
   <div class="header">
@@ -32,7 +29,5 @@
     
     <!-- 引用外部脚本 -->
     <script src="script.js" defer></script>
-    <h1>Welcome to My Website!</h1>
-    <p>This is a simple static website hosted on GitHub Pages.</p>
 </body>
 </html>
