@@ -1,33 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- 其他 meta 和 title 标签 -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ONEME</title>
+    <style>
+        body {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
 
-    <!-- 引用外部样式表 -->
-    <link rel="stylesheet" href="styles.css">
+        h1 {
+            font-size: 48px;
+            color: #333;
+        }
+    </style>
 </head>
 <body>
-  <div class="header">
-        <h1>Welcome to My Website!</h1>
-    </div>
-
-    <div class="container">
-        <div class="section">
-            <h2>Section 1</h2>
-            <p>This is some content for section 1.</p>
-        </div>
-
-        <div class="section">
-            <h2>Section 2</h2>
-            <p>This is some content for section 2.</p>
-        </div>
-
-        <a href="#" class="button">Click me</a>
-    </div>
-
-    <!-- 其他内容 -->
-    
-    <!-- 引用外部脚本 -->
-    <script src="script.js" defer></script>
+    <h1>ONEME</h1>
 </body>
 </html>
